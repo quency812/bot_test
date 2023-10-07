@@ -5,7 +5,7 @@ from aiogram.types import FSInputFile
 import qrcode_generator
 import clear
 
-bot = Bot("5820873998:AAFiHN1P94CU0PO5xyJWaZ7scsirVlbXFUY")
+bot = Bot("TOKEN")
 dp = Dispatcher()
 
 
